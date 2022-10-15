@@ -1,0 +1,12 @@
+C:\Users\khadi\source\repos\Bouchingball\Bouchingball\bin\Debug\Bouchingball.exe.config
+C:\Users\khadi\source\repos\Bouchingball\Bouchingball\bin\Debug\Bouchingball.exe
+C:\Users\khadi\source\repos\Bouchingball\Bouchingball\bin\Debug\Bouchingball.pdb
+C:\Users\khadi\source\repos\Bouchingball\Bouchingball\obj\Debug\Bouchingball.csproj.AssemblyReference.cache
+C:\Users\khadi\source\repos\Bouchingball\Bouchingball\obj\Debug\Bouchingball.csproj.SuggestedBindingRedirects.cache
+C:\Users\khadi\source\repos\Bouchingball\Bouchingball\obj\Debug\Bouchingball.Form1.resources
+C:\Users\khadi\source\repos\Bouchingball\Bouchingball\obj\Debug\Bouchingball.Properties.Resources.resources
+C:\Users\khadi\source\repos\Bouchingball\Bouchingball\obj\Debug\Bouchingball.csproj.GenerateResource.cache
+C:\Users\khadi\source\repos\Bouchingball\Bouchingball\obj\Debug\Bouchingball.csproj.CoreCompileInputs.cache
+C:\Users\khadi\source\repos\Bouchingball\Bouchingball\obj\Debug\Bouchingball.exe
+C:\Users\khadi\source\repos\Bouchingball\Bouchingball\obj\Debug\Bouchingball.pdb
+C:\Users\khadi\source\repos\Bouchingball\Bouchingball\obj\Debug\BounchingBALL.Form1.resources
